@@ -1,0 +1,7 @@
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\obj\x64\Release\SimpleDinvoke.csproj.CoreCompileInputs.cache
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\bin\x64\Release\SimpleDinvoke.exe.config
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\bin\x64\Release\SimpleDinvoke.exe
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\bin\x64\Release\SimpleDinvoke.pdb
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\obj\x64\Release\SimpleDinvoke.exe
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\obj\x64\Release\SimpleDinvoke.pdb
+C:\Users\ritab\Project\SimpleDinvoke\SimpleDinvoke\obj\x64\Release\SimpleDinvoke.csproj.AssemblyReference.cache

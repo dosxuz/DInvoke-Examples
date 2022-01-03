@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDinvoke", "SimpleDinvoke.csproj", "{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Debug|x64.ActiveCfg = Debug|x64
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Debug|x64.Build.0 = Debug|x64
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Release|x64.ActiveCfg = Release|x64
+		{A25F0B18-AFD1-4A2F-9BC8-27EE296BDB8D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {742F83C3-04E6-4A4A-984B-EF9783123E14}
+	EndGlobalSection
+EndGlobal
